@@ -1,0 +1,1 @@
+Colocá en esta carpeta las imágenes de los Dōjutsu. Convención sugerida: `sharingan.jpg`, `byakugan.jpg`, `rinnegan.jpg`, `mangekyo.jpg` y `jougan.jpg`. Para mostrarlas en la página, usá rutas como `img/sharingan.jpg`.
